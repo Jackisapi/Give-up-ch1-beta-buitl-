@@ -6,7 +6,8 @@ Python (preferibly 3)
 If you dont want to use an ide then you will need some file path skills although an ide makes life easier. 
 
 
-(UPDATE) If you are using windows(I dont know about linux or macos) just double click the file and click  open with python NOT PYTHON IDE
+(UPDATE) If you are using windows just double click the file and click  open with python NOT PYTHON IDE
+In linux go to the directiory the script is in and run python ./Give_up.py
 
 
 Also thanks for the support 
